@@ -1,5 +1,5 @@
-# SNHU_CS250_Software_Development-LifeCycle
-SNHU course CS250 Software Development Life Cycle project files.
+# Scum-Agile Software Development Life Cycle.
+This contains materials that reflected studies in the practices and thoeries of Scrum-Agile approaches in Software Development.
 
 Included:<br>
 - A Power Point presentation on Scrum-Agile practices and implementation for a mock company Chada Tech into an example project called SNHU Travel.<br>
